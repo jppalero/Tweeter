@@ -1,0 +1,2 @@
+#ignore specific file
+app/config/database.js
